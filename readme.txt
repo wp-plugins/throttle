@@ -24,7 +24,7 @@ Throttle is a Wordpress implementation of a bandwidth limiting throttle. It prov
 = Where can I get more information? =
 
 Further information is available for 
-[Blog Owners & Administrators][http://www.mutube.com/projects/wordpress/throttle/admin/] and
-[Plugin Developers][http://www.mutube.com/projects/wordpress/throttle/developers/].
+[Blog Owners & Administrators](http://www.mutube.com/projects/wordpress/throttle/admin/) and
+[Plugin Developers](http://www.mutube.com/projects/wordpress/throttle/developers/).
 
-For further support see the [plugin homepage][http://www.mutube.com/projects/wordpress/throttle/]
+For further support see the [plugin homepage](http://www.mutube.com/projects/wordpress/throttle/)
