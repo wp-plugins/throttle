@@ -18,6 +18,7 @@ Throttle is a Wordpress implementation of a bandwidth limiting throttle. It prov
 1. Log into your WordPress admin panel
 1. Go to Plugins and “Activate” the plugin. You can now download the plugins which make use of the Throttle system.
 1. Set up your Throttle configuration under Options / Throttle. All Throttle-enabled plugins are configured through this panel.
+1. Throttle comes with a set of additional plugins for limiting bandwidth, these can be found and enabled under the plugins admin panel and configured under Options / Throttle.
 
 == Frequently Asked Questions ==
 
