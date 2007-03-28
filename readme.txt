@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Throttle ===
 Contributors: mutube
 Donate link: http://www.mutube.com/about/be-nice/
 Tags: throttle, manage, bandwidth, server

@@ -4,7 +4,7 @@ Plugin Name: Throttle
 Plugin URI: http://www.mutube.com/projects/wordpress/throttle/?utm_source=plugin&utm_medium=admin
 Description: Adds load-throttling capability to Wordpress.
 Author: Martin Fitzpatrick
-Version: 1.3
+Version: 1.4
 Author URI: http://www.mutube.com?utm_source=plugin&utm_medium=admin
 */
 
@@ -212,6 +212,7 @@ class throttle {
 
 		}
 		?>
+
 
 		<div class="wrap">
         <h2>Throttle Options</h2>
