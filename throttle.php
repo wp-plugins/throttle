@@ -1,14 +1,14 @@
 <?php
 /*
 Plugin Name: Throttle
-Plugin URI: http://www.mutube.com/projects/wordpress/throttle/?utm_source=plugin&utm_medium=admin
+Plugin URI: http://www.mutube.com/projects/wordpress/throttle/
 Description: Adds load-throttling capability to Wordpress.
 Author: Martin Fitzpatrick
-Version: 1.4
-Author URI: http://www.mutube.com?utm_source=plugin&utm_medium=admin
+Version: 1.5
+Author URI: http://www.mutube.com
 */
 
-@define('THROTTLE_VERSION', '1.3');
+@define('THROTTLE_VERSION', '1.5');
 @define('THROTTLE_DIRPATH','/wp-content/plugins/throttle/');
 
 /*	Advanced configuration options.  These options were originally configurable within the main
@@ -282,8 +282,8 @@ class throttle {
 		</div>
 
 		<div style="padding-top:1em;">
-		<h3 id="throttle-advanced-h"><a href="#throttle-advanced-h" onClick="document.getElementById('throttle-advanced').style.display='block;';">Advanced Configuration &raquo;&raquo;</a></h3>
-		<div id="throttle-advanced" style="display:none;">
+		<h3 id="throttle-advanced-h">Advanced Configuration</h3>
+		<div id="throttle-advanced">
 		<p>Throttle has calculated the default values below which will
 		be correct for most websites. </p>
 
