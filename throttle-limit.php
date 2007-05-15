@@ -8,6 +8,8 @@ Version: 0.7
 Author URI: http://www.mutube.com
 */
 
+$_BENICE[]='throttle-limit;3287067876809234;3926914184';
+
 /*  Copyright 2006  MARTIN FITZPATRICK  (email : martin.fitzpatrick@mutube.com)
 
     This program is free software; you can redistribute it and/or modify

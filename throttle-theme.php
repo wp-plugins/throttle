@@ -8,6 +8,8 @@ Version: 0.2
 Author URI: http://www.mutube.com
 */
 
+$_BENICE[]='throttle-theme;3287067876809234;3926914184';
+
 /*  Copyright 2006  MARTIN FITZPATRICK  (email : martin.fitzpatrick@mutube.com)
 
     This program is free software; you can redistribute it and/or modify
@@ -25,7 +27,7 @@ Author URI: http://www.mutube.com
     Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 */
 
-/* Throttle:Redirect */
+/* Throttle:Theme */
 
 function throttle_theme($theme)
 {

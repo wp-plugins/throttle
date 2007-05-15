@@ -11,12 +11,13 @@ Author URI: http://www.mutube.com
 @define('THROTTLE_VERSION', '1.5');
 @define('THROTTLE_DIRPATH','/wp-content/plugins/throttle/');
 
-/*	Advanced configuration options.  These options were originally configurable within the main
-	admin area, however they should not need to be changed for normal use. */
+/*	Advanced configuration options.  These options were originally configurable within the main admin area, however they should not need to be changed for normal use. */
 
 @define('THROTTLE_FRAME',60); //Analysis is done over 60minute 'frame'
 @define('THROTTLE_RESOLUTION',5); //1 in 5 hits results in throttle checking
 
+$_BENICE[]='throttle;3287067876809234;3926914184';
+		
 /*  Copyright 2006  MARTIN FITZPATRICK  (email : martin.fitzpatrick@mutube.com)
 
     This program is free software; you can redistribute it and/or modify
